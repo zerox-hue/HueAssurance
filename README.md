@@ -1,4 +1,4 @@
-# 💼  HueAssurance 1.0.0
+# 💼  HueAssurance
 *- Plugin permettant d'ajouter un systéme d'assurance pour les véhicules*
 ## 📦 Fonctionnalités 
 *- Permet de mettre une assurance sur un véhicule par l'entreprise d'assureur (l'id de cette entreprise est configurable via le dossier HueAssurance -> config.json -> IdAssureur) !*
